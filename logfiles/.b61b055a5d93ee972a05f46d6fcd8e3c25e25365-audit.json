@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Infologia_Website\\Infologialive_BE\\logfiles\\.b61b055a5d93ee972a05f46d6fcd8e3c25e25365-audit.json",
+    "files": [
+        {
+            "date": 1760456105221,
+            "name": "D:\\Infologia_Website\\Infologialive_BE\\logfiles\\application-14-10-2025.log",
+            "hash": "2a3900bb91671c15311a3dd608235cf73cfdc9f045cb81daeb01969a74203659"
+        },
+        {
+            "date": 1760466719400,
+            "name": "D:\\Infologia_Website\\Infologialive_BE\\logfiles\\application-15-10-2025.log",
+            "hash": "d92cc09435c5e05af6fb50ea4aeb9acb57769cda976aff85958efb909cf4c139"
+        }
+    ],
+    "hashType": "sha256"
+}

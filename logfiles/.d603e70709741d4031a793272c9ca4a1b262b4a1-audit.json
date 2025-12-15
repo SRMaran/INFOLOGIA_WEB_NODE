@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\DELL\\Documents\\middlewares\\logfiles\\.d603e70709741d4031a793272c9ca4a1b262b4a1-audit.json",
+    "files": [
+        {
+            "date": 1758200264637,
+            "name": "C:\\Users\\DELL\\Documents\\middlewares\\logfiles\\application-18-09-2025.log",
+            "hash": "989e85ad789985df0aa65d30206611a5b6f679bc28810d3be8c50ae7838874da"
+        }
+    ],
+    "hashType": "sha256"
+}

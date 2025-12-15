@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\.6fcc4e56926715406259783b39aaabe8b69f4302-audit.json",
+    "files": [
+        {
+            "date": 1762843782298,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-11-11-2025.log",
+            "hash": "10e86dacb15773d6b86a94098e9f2f2c9a8e46a996efd13862f65846eb496007"
+        },
+        {
+            "date": 1763037999208,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-13-11-2025.log",
+            "hash": "3302f6718c1ccc326c4bd1682bf4540ef8165137809006aa8a80e8b058ade531"
+        },
+        {
+            "date": 1763102033403,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-14-11-2025.log",
+            "hash": "c7a42ab630397f260baf2f7c97832b26617759143756acb6c46f57e3608dbfa7"
+        },
+        {
+            "date": 1763189824890,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-15-11-2025.log",
+            "hash": "9dbdb169c218cb0c10ea61d530b38b7f98bf936259234d344b27dfe6221ba89a"
+        },
+        {
+            "date": 1763353757457,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-17-11-2025.log",
+            "hash": "57ee83cfcacff169ff9b8d3de2a611ee2ac3713b89e785b69f28c7c2cfd82afe"
+        },
+        {
+            "date": 1763983262206,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-24-11-2025.log",
+            "hash": "59dbcaf65f7c94a5794dad911b5b4631cd6c0aed65eaf17415f3757324d10764"
+        },
+        {
+            "date": 1764046182532,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-25-11-2025.log",
+            "hash": "cbd2a428f24a273beb462fe3c7aabe3ca52364e157d9147a482cb9b83f643223"
+        },
+        {
+            "date": 1764132826522,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-26-11-2025.log",
+            "hash": "7e9ddad066be93b83e527347e1ed1e1fae3f45bdaab177e07bbe09e7abf32cc1"
+        },
+        {
+            "date": 1764224745406,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-27-11-2025.log",
+            "hash": "64d228e3a45d294df0f11f7191df78144ae05a0bd1b3590995af37d785110fb2"
+        },
+        {
+            "date": 1764746191521,
+            "name": "D:\\GIT Infologia\\INFOLOGIA_NODE\\logfiles\\application-03-12-2025.log",
+            "hash": "f8c73e7915ac47043f2a93e0a379df9092f28e86d16c501a709a02cc50154b9e"
+        }
+    ],
+    "hashType": "sha256"
+}

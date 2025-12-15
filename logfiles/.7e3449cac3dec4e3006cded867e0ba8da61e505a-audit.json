@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Info_Web\\fianl_TL\\infologia_BE\\logfiles\\.7e3449cac3dec4e3006cded867e0ba8da61e505a-audit.json",
+    "files": [
+        {
+            "date": 1760531271684,
+            "name": "D:\\Info_Web\\fianl_TL\\infologia_BE\\logfiles\\application-15-10-2025.log",
+            "hash": "0690d5182dac703f3ecb775c4c3c141e3880f467e3a0fc1b1079cf7b27d2315e"
+        }
+    ],
+    "hashType": "sha256"
+}

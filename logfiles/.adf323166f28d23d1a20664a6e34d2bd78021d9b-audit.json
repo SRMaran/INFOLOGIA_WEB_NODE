@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 30
+  },
+  "auditLog": "D:\\Infologia\\Backend\\logfiles\\.adf323166f28d23d1a20664a6e34d2bd78021d9b-audit.json",
+  "files": [
+    {
+      "date": 1740122056360,
+      "name": "D:\\Infologia\\Backend\\logfiles\\application-21-02-2025.log",
+      "hash": "5720ae645545f29227ef40f770f235955156bda638c1c6be4cfeee4d06729cd6"
+    }
+  ],
+  "hashType": "sha256"
+}

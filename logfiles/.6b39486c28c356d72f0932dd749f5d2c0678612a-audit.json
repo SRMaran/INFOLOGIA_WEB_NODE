@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 30
+  },
+  "auditLog": "D:\\Infologia\\backend\\logfiles\\.6b39486c28c356d72f0932dd749f5d2c0678612a-audit.json",
+  "files": [
+    {
+      "date": 1727595397014,
+      "name": "D:\\Infologia\\backend\\logfiles\\application-29-09-2024.log",
+      "hash": "0819b18fab4c5c0835704837d5138104b1bf7e3df85533810241336bd8ac8b33"
+    },
+    {
+      "date": 1727676097659,
+      "name": "D:\\Infologia\\backend\\logfiles\\application-30-09-2024.log",
+      "hash": "036528ff7b918f5c6b3bd7efcea789a6665c1cc4b25d6ec5177f25a97b87ee36"
+    }
+  ],
+  "hashType": "sha256"
+}

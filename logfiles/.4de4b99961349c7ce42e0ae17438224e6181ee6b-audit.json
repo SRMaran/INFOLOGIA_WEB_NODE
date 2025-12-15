@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Infologia_Angular_300625\\BE\\logfiles\\.4de4b99961349c7ce42e0ae17438224e6181ee6b-audit.json",
+    "files": [
+        {
+            "date": 1751534583728,
+            "name": "D:\\Infologia_Angular_300625\\BE\\logfiles\\application-03-07-2025.log",
+            "hash": "87c96bffe7ddf115fe04a9c312a86d6e1f328d97fc03479fbeb255242ed4cdd9"
+        },
+        {
+            "date": 1751609505213,
+            "name": "D:\\Infologia_Angular_300625\\BE\\logfiles\\application-04-07-2025.log",
+            "hash": "e521b3ca3e0c79f73c10062a731c63938cda975eac445939ad31f7d8629514ce"
+        },
+        {
+            "date": 1751699526259,
+            "name": "D:\\Infologia_Angular_300625\\BE\\logfiles\\application-05-07-2025.log",
+            "hash": "2187f834c82428d43006564dc40554702a94fb66d9ed52c53ff1b04099584505"
+        },
+        {
+            "date": 1751872907636,
+            "name": "D:\\Infologia_Angular_300625\\BE\\logfiles\\application-07-07-2025.log",
+            "hash": "dd0a1a10f30040998ddd79b48d7626e4612117cc4911c5f0fcccaf61fec6939f"
+        },
+        {
+            "date": 1753088800944,
+            "name": "D:\\Infologia_Angular_300625\\BE\\logfiles\\application-21-07-2025.log",
+            "hash": "6612d8991a4bd03bbb14aa600d3559c75884fff53dddc9f84e49d331b3b01c76"
+        }
+    ],
+    "hashType": "sha256"
+}

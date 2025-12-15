@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\production build\\INFOLOGIA_WEB\\Infologia_BE\\logfiles\\.51942d398dca438fc6e1c2ba4ec1ef86df2de9bf-audit.json",
+    "files": [
+        {
+            "date": 1754369416927,
+            "name": "D:\\production build\\INFOLOGIA_WEB\\Infologia_BE\\logfiles\\application-05-08-2025.log",
+            "hash": "f251373bb403ef2d23ce6abe85401b7026d6ef6c1436bf16963a03a709496aee"
+        }
+    ],
+    "hashType": "sha256"
+}

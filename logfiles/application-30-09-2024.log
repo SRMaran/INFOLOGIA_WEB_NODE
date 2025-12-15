@@ -1,0 +1,22 @@
+[9/30/2024, 12:13:07 PM] info: GET /
+[9/30/2024, 12:13:07 PM] info: GET /favicon.ico
+[9/30/2024, 12:13:52 PM] info: GET /Email/post
+[9/30/2024, 12:50:33 PM] info: GET /
+[9/30/2024, 1:01:08 PM] error: SyntaxError: Unexpected token 'f', "formvalues" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Infologia\backend\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Infologia\backend\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Infologia\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\Infologia\backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\Infologia\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Infologia\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+[9/30/2024, 1:02:33 PM] info: POST /Email
+[9/30/2024, 1:03:31 PM] info: POST /Email
+[9/30/2024, 5:35:42 PM] info: POST /Email
+[9/30/2024, 5:35:57 PM] info: POST /Email
+[9/30/2024, 5:36:21 PM] info: POST /Email
+[9/30/2024, 5:40:57 PM] info: POST /Email
+[9/30/2024, 5:42:46 PM] info: POST /Email

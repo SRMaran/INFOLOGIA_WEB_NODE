@@ -1,0 +1,14 @@
+[8/13/2025, 6:05:16 PM] info: GET /blogcreation/get
+[8/13/2025, 6:05:18 PM] info: Blog fetched successfully
+[8/13/2025, 6:05:18 PM] info: GET /blogImages/file_20250812083945_page-title-bg.jpg
+[8/13/2025, 6:05:18 PM] info: GET /blogImages/file_20250812092615_Back%20office%20image.png
+[8/13/2025, 6:05:18 PM] info: GET /blogImages/file_20250812091240_Logistics%20solutions%20image.png
+[8/13/2025, 6:05:56 PM] info: GET /blogcreation/
+[8/13/2025, 6:05:57 PM] info:  Blog fetched successfully
+[8/13/2025, 6:06:03 PM] info: GET /blogcreation/getdata/2
+[8/13/2025, 6:06:08 PM] info: GET /blogcreations/file_20250812092615_Back%20office%20image.png
+[8/13/2025, 6:06:13 PM] info: GET /blogcreation/
+[8/13/2025, 6:06:14 PM] info:  Blog fetched successfully
+[8/13/2025, 6:06:15 PM] info: GET /blogcreation/getdata/1
+[8/13/2025, 6:06:21 PM] info: GET /blogcreation/
+[8/13/2025, 6:06:21 PM] info:  Blog fetched successfully

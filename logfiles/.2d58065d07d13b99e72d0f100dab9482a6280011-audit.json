@@ -1,0 +1,25 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 30
+  },
+  "auditLog": "C:\\Users\\DELL\\Downloads\\Infologia_Angular_300625\\BE\\logfiles\\.2d58065d07d13b99e72d0f100dab9482a6280011-audit.json",
+  "files": [
+    {
+      "date": 1751284514393,
+      "name": "C:\\Users\\DELL\\Downloads\\Infologia_Angular_300625\\BE\\logfiles\\application-30-06-2025.log",
+      "hash": "01f429d8855fb71888a121550dd61a717e6009a900fecba729c431078b38dd9f"
+    },
+    {
+      "date": 1751343222636,
+      "name": "C:\\Users\\DELL\\Downloads\\Infologia_Angular_300625\\BE\\logfiles\\application-01-07-2025.log",
+      "hash": "b54d4d2c47a925304bc9106beabba9d0346378456dd8d5575adf113a928a219b"
+    },
+    {
+      "date": 1751430905400,
+      "name": "C:\\Users\\DELL\\Downloads\\Infologia_Angular_300625\\BE\\logfiles\\application-02-07-2025.log",
+      "hash": "72ceb47cebe93fb0f135f6833e2e841c0900ff239d0b1ceee4ae8599ed014200"
+    }
+  ],
+  "hashType": "sha256"
+}

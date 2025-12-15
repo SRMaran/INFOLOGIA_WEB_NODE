@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Infologia06.08.2025\\Backend\\logfiles\\.179013a46baec8881f3c3d385c5564248dec0f53-audit.json",
+    "files": [
+        {
+            "date": 1754453707895,
+            "name": "D:\\Infologia06.08.2025\\Backend\\logfiles\\application-06-08-2025.log",
+            "hash": "c2e304b09305e3f95802ea228c2dc7b124b97bb6e8e5d1bc7adc8ed0d6060bfc"
+        },
+        {
+            "date": 1754540913760,
+            "name": "D:\\Infologia06.08.2025\\Backend\\logfiles\\application-07-08-2025.log",
+            "hash": "4b42def1d1b1f3cb05fe02b8ae941affffb9380c2e5b06d9d1189cf7b19929b5"
+        },
+        {
+            "date": 1754885235755,
+            "name": "D:\\Infologia06.08.2025\\Backend\\logfiles\\application-11-08-2025.log",
+            "hash": "7d1e015f9e867251bacff4ba62ecfa484a46234618a2ce91d88368ce1e432417"
+        },
+        {
+            "date": 1755088418325,
+            "name": "D:\\Infologia06.08.2025\\Backend\\logfiles\\application-13-08-2025.log",
+            "hash": "89b5b8767505e12fed3bb0c87b461edeb85414afa8cfbd82d8b4db96625070df"
+        },
+        {
+            "date": 1755143699364,
+            "name": "D:\\Infologia06.08.2025\\Backend\\logfiles\\application-14-08-2025.log",
+            "hash": "81cac5beb45a57b6c7e54bf58596c1ce94dd6021323503b16fda4024f8e3ab5f"
+        }
+    ],
+    "hashType": "sha256"
+}

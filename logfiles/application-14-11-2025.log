@@ -1,0 +1,68 @@
+[11/14/2025, 12:08:29 PM] info: POST /Login
+[11/14/2025, 12:08:40 PM] info: POST /Login
+[11/14/2025, 12:09:36 PM] info: POST /Login
+[11/14/2025, 12:09:37 PM] info: GET /blogcreation
+[11/14/2025, 12:09:37 PM] info:  Blog fetched successfully
+[11/14/2025, 6:51:30 PM] info: POST /blogcreation/Post
+[11/14/2025, 6:51:30 PM] error: postblogcreation: ReferenceError: logo_file is not defined
+[11/14/2025, 8:19:32 PM] info: POST /blogcreation/Post
+[11/14/2025, 8:19:48 PM] info: GET /blogcreation
+[11/14/2025, 8:19:50 PM] info:  Blog fetched successfully
+[11/14/2025, 8:20:04 PM] info: GET /blogcreation/data/7
+[11/14/2025, 8:20:04 PM] info: GET /blogcreation
+[11/14/2025, 8:20:05 PM] info:  Blog fetched successfully
+[11/14/2025, 8:20:07 PM] info: GET /blogcreation/get
+[11/14/2025, 8:20:09 PM] info: Blog fetched successfully
+[11/14/2025, 8:20:09 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:20:09 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:20:09 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:20:09 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:20:40 PM] info: GET /blogcreation/getdeatils/7
+[11/14/2025, 8:21:50 PM] info: GET /blogcreation/get
+[11/14/2025, 8:21:51 PM] info: Blog fetched successfully
+[11/14/2025, 8:33:11 PM] info: GET /blogcreation/get
+[11/14/2025, 8:33:12 PM] info: Blog fetched successfully
+[11/14/2025, 8:33:12 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:33:12 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:33:12 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:33:12 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:36:24 PM] info: GET /blogcreation/get
+[11/14/2025, 8:36:25 PM] info: Blog fetched successfully
+[11/14/2025, 8:36:25 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:36:25 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:36:25 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:36:25 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:36:29 PM] info: GET /blogcreation
+[11/14/2025, 8:36:29 PM] info:  Blog fetched successfully
+[11/14/2025, 8:36:32 PM] info: GET /blogcreation
+[11/14/2025, 8:36:32 PM] info:  Blog fetched successfully
+[11/14/2025, 8:39:38 PM] info: POST /blogcreation/Post
+[11/14/2025, 8:40:27 PM] info: POST /blogcreation/Post
+[11/14/2025, 8:41:05 PM] info: GET /blogcreation/get
+[11/14/2025, 8:41:05 PM] info: Blog fetched successfully
+[11/14/2025, 8:41:05 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:41:05 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:41:05 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:41:05 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:44:26 PM] info: GET /blogcreation
+[11/14/2025, 8:44:28 PM] info:  Blog fetched successfully
+[11/14/2025, 8:46:10 PM] info: POST /blogcreation/Post
+[11/14/2025, 8:46:23 PM] info: GET /blogcreation
+[11/14/2025, 8:46:24 PM] info:  Blog fetched successfully
+[11/14/2025, 8:46:29 PM] info: GET /blogcreation/data/9
+[11/14/2025, 8:46:29 PM] info: GET /blogcreation
+[11/14/2025, 8:46:30 PM] info:  Blog fetched successfully
+[11/14/2025, 8:46:32 PM] info: GET /blogcreation/get
+[11/14/2025, 8:46:32 PM] info: Blog fetched successfully
+[11/14/2025, 8:46:32 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:46:32 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:46:32 PM] info: GET /blogImages/logo_20251114151610_Cargowise%20Neo.png
+[11/14/2025, 8:46:32 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:46:32 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:47:38 PM] info: GET /blogcreation/get
+[11/14/2025, 8:47:39 PM] info: Blog fetched successfully
+[11/14/2025, 8:47:39 PM] info: GET /blogImages/logo_20251022061648_Blogpage2.jpg
+[11/14/2025, 8:47:39 PM] info: GET /blogImages/logo_20251014134443_Blogpage1.jpg
+[11/14/2025, 8:47:39 PM] info: GET /blogImages/logo_20251014140137_Blogpage3.jpg
+[11/14/2025, 8:47:39 PM] info: GET /blogImages/logo_20251014140310_Blogpage6.png
+[11/14/2025, 8:47:39 PM] info: GET /blogImages/logo_20251114151610_Cargowise%20Neo.png

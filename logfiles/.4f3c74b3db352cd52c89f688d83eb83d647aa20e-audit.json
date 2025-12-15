@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 30
+  },
+  "auditLog": "D:\\ANGULAR-INFOLOGIA\\backend\\logfiles\\.4f3c74b3db352cd52c89f688d83eb83d647aa20e-audit.json",
+  "files": [
+    {
+      "date": 1727758588418,
+      "name": "D:\\ANGULAR-INFOLOGIA\\backend\\logfiles\\application-01-10-2024.log",
+      "hash": "174bc4e71af5b5f63e2eaf9ccc765c1bcc075771c51b63bc7996c7d171d0683a"
+    }
+  ],
+  "hashType": "sha256"
+}

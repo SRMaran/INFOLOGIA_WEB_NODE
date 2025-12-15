@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\production build\\Infologia Update\\config\\logfiles\\.0b2279f51d709c43e9fc49ee2e7b8cbe5965cdb2-audit.json",
+    "files": [
+        {
+            "date": 1754902799185,
+            "name": "D:\\production build\\Infologia Update\\config\\logfiles\\application-11-08-2025.log",
+            "hash": "eb1fcd7d2ccc7671a02e227a2cdee2fab76eeade3f9b3fe24e761102ff7b6b24"
+        },
+        {
+            "date": 1754973914228,
+            "name": "D:\\production build\\Infologia Update\\config\\logfiles\\application-12-08-2025.log",
+            "hash": "1f635379afa70ef6c60baa0974542272ed541c3b66f6b243410cbe41646a445e"
+        }
+    ],
+    "hashType": "sha256"
+}

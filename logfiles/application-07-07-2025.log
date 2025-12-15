@@ -1,0 +1,18 @@
+[7/7/2025, 3:18:23 PM] info: POST /applicants/Post
+[7/7/2025, 3:18:38 PM] error: Intern DB Error: SequelizeConnectionError: Failed to connect to 103.197.121.228:1433 in 15000ms
+[7/7/2025, 3:18:54 PM] info: POST /applicants/Post
+[7/7/2025, 3:18:57 PM] info: POST /jobmail
+[7/7/2025, 3:55:19 PM] info: POST /applicants/Post
+[7/7/2025, 3:55:20 PM] info: POST /jobmail
+[7/7/2025, 4:13:27 PM] info: POST /intern/Post
+[7/7/2025, 4:13:29 PM] error: Intern DB Error: SequelizeDatabaseError: String or binary data would be truncated.
+[7/7/2025, 4:13:50 PM] info: POST /intern/Post
+[7/7/2025, 4:13:52 PM] error: Intern DB Error: SequelizeDatabaseError: String or binary data would be truncated.
+[7/7/2025, 4:14:01 PM] info: POST /intern/Post
+[7/7/2025, 4:14:02 PM] error: Intern DB Error: SequelizeDatabaseError: String or binary data would be truncated.
+[7/7/2025, 4:19:11 PM] info: POST /intern/Post
+[7/7/2025, 4:19:12 PM] error: Intern DB Error: SequelizeDatabaseError: String or binary data would be truncated.
+[7/7/2025, 4:21:57 PM] info: POST /intern/Post
+[7/7/2025, 4:21:58 PM] info: POST /internmail
+[7/7/2025, 4:22:49 PM] info: POST /intern/Post
+[7/7/2025, 4:22:50 PM] info: POST /internmail

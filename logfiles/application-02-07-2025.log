@@ -1,0 +1,144 @@
+[7/2/2025, 10:24:42 AM] info: POST /intern/Post
+[7/2/2025, 10:24:44 AM] info: POST /internmail
+[7/2/2025, 10:28:25 AM] info: POST /intern/Post
+[7/2/2025, 10:28:26 AM] info: POST /internmail
+[7/2/2025, 10:31:46 AM] info: POST /intern/Post
+[7/2/2025, 10:31:47 AM] info: POST /internmail
+[7/2/2025, 10:32:58 AM] info: POST /intern/Post
+[7/2/2025, 10:33:52 AM] info: POST /intern/Post
+[7/2/2025, 10:34:55 AM] info: POST /intern/Post
+[7/2/2025, 10:34:56 AM] info: POST /internmail
+[7/2/2025, 10:42:06 AM] info: POST /intern/Post
+[7/2/2025, 10:42:06 AM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 10:46:33 AM] info: POST /intern/Post
+[7/2/2025, 10:46:33 AM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 10:48:20 AM] info: POST /intern/Post
+[7/2/2025, 10:48:21 AM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 10:50:30 AM] info: POST /intern/Post
+[7/2/2025, 10:56:14 AM] info: POST /intern/Post
+[7/2/2025, 10:57:20 AM] info: POST /intern/Post
+[7/2/2025, 10:58:49 AM] info: POST /intern/Post
+[7/2/2025, 10:59:29 AM] info: POST /intern/Post
+[7/2/2025, 11:00:38 AM] info: POST /intern/Post
+[7/2/2025, 11:01:37 AM] info: POST /intern/Post
+[7/2/2025, 11:01:39 AM] info: POST /internmail
+[7/2/2025, 11:15:34 AM] info: POST /intern/Post
+[7/2/2025, 11:15:47 AM] info: POST /intern/Post
+[7/2/2025, 11:25:00 AM] error: SyntaxError: Unexpected token '-', "------WebK"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+[7/2/2025, 11:27:43 AM] error: SyntaxError: Unexpected token '-', "------WebK"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+[7/2/2025, 11:33:02 AM] error: SyntaxError: Unexpected token '-', "------WebK"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+[7/2/2025, 12:08:00 PM] error: PayloadTooLargeError: request entity too large
+    at readStream (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:116:12)
+    at read (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express-fileupload\lib\index.js:37:14
+[7/2/2025, 12:09:24 PM] error: PayloadTooLargeError: request entity too large
+    at readStream (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\raw-body\index.js:116:12)
+    at read (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\DELL\Downloads\Infologia_Angular_300625\BE\node_modules\express\lib\middleware\init.js:40:5)
+[7/2/2025, 12:11:51 PM] info: POST /intern/Post
+[7/2/2025, 12:11:51 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'Resume')
+[7/2/2025, 12:16:31 PM] info: POST /intern/Post
+[7/2/2025, 12:16:31 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 12:17:16 PM] info: POST /intern/Post
+[7/2/2025, 12:17:16 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 12:19:05 PM] info: POST /intern/Post
+[7/2/2025, 12:19:05 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 12:19:57 PM] info: POST /intern/Post
+[7/2/2025, 12:19:57 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'name')
+[7/2/2025, 12:20:32 PM] info: POST /intern/Post
+[7/2/2025, 12:21:28 PM] info: POST /intern/Post
+[7/2/2025, 12:21:28 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:40:18 PM] info: POST /intern/Post
+[7/2/2025, 1:40:18 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:40:32 PM] info: POST /intern/Post
+[7/2/2025, 1:40:33 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:42:38 PM] info: POST /intern/Post
+[7/2/2025, 1:42:38 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:48:25 PM] info: POST /intern/Post
+[7/2/2025, 1:49:22 PM] info: POST /intern/Post
+[7/2/2025, 1:50:02 PM] info: POST /intern/Post
+[7/2/2025, 1:51:29 PM] info: POST /intern/Post
+[7/2/2025, 1:51:29 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:53:05 PM] info: POST /intern/Post
+[7/2/2025, 1:53:05 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:57:10 PM] info: POST /intern/Post
+[7/2/2025, 1:57:10 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 1:59:48 PM] info: POST /intern/Post
+[7/2/2025, 4:34:01 PM] info: POST /intern/Post
+[7/2/2025, 4:34:01 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 4:36:23 PM] info: POST /intern/Post
+[7/2/2025, 4:36:23 PM] error: Intern Upload Error: TypeError: Cannot read properties of undefined (reading 'resume')
+[7/2/2025, 4:38:34 PM] info: POST /intern/Post
+[7/2/2025, 4:38:36 PM] info: POST /internmail
+[7/2/2025, 4:46:22 PM] info: POST /intern/Post
+[7/2/2025, 4:46:23 PM] info: POST /internmail
+[7/2/2025, 4:52:10 PM] info: POST /intern/Post
+[7/2/2025, 4:52:12 PM] info: POST /internmail
+[7/2/2025, 4:54:18 PM] info: POST /intern/Post
+[7/2/2025, 4:54:20 PM] info: POST /internmail
+[7/2/2025, 5:01:36 PM] info: POST /intern/Post
+[7/2/2025, 5:01:37 PM] info: POST /internmail
+[7/2/2025, 5:03:24 PM] info: POST /intern/Post
+[7/2/2025, 5:03:25 PM] info: POST /internmail
+[7/2/2025, 5:05:59 PM] info: POST /intern/Post
+[7/2/2025, 5:06:03 PM] info: POST /internmail
+[7/2/2025, 5:10:26 PM] info: POST /intern/Post
+[7/2/2025, 5:10:29 PM] info: POST /internmail
+[7/2/2025, 5:18:19 PM] info: POST /intern/Post
+[7/2/2025, 5:19:15 PM] info: POST /internmail
+[7/2/2025, 5:19:38 PM] info: POST /intern/Post
+[7/2/2025, 5:24:31 PM] info: POST /internmail
+[7/2/2025, 5:25:03 PM] info: POST /intern/Post
+[7/2/2025, 5:25:09 PM] info: POST /internmail
+[7/2/2025, 5:29:22 PM] info: POST /intern/Post
+[7/2/2025, 5:30:41 PM] info: POST /internmail
+[7/2/2025, 5:32:37 PM] info: POST /intern/Post
+[7/2/2025, 5:32:44 PM] info: POST /internmail
+[7/2/2025, 5:35:42 PM] info: POST /intern/Post
+[7/2/2025, 5:35:51 PM] info: POST /internmail
+[7/2/2025, 5:40:09 PM] info: POST /intern/Post
+[7/2/2025, 5:40:13 PM] info: POST /internmail
